@@ -1,4 +1,4 @@
-# useSafeCallback
+# useSafeCallback ![CI](https://github.com/sergiodxa/use-safe-callback/workflows/CI/badge.svg) ![Publish](https://github.com/sergiodxa/use-safe-callback/workflows/Publish/badge.svg)
 
 Wrap a function to ensure you never call it if a component is unmounted, useful to avoid cases where an async code could finish after a component has unmounted and it tries to update a state.
 
