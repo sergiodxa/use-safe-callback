@@ -7,7 +7,7 @@ Wrap a function to ensure you never call it if a component is unmounted, useful 
 Install it
 
 ```sh
-$ yarn add use-mounted-callback
+$ yarn add use-safe-callback
 ```
 
 Import it
