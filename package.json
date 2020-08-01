@@ -8,7 +8,7 @@
     "url": "sergiodxa/use-safe-callback"
   },
   "main": "dist/index.js",
-  "module": "dist/use-mounted-callback.esm.js",
+  "module": "dist/use-safe-callback.esm.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist",
