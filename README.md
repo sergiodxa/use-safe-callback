@@ -33,7 +33,7 @@ Your unsafe callback will not run if the component is unmounted, preventing you 
 
 ## Author
 
-- [Sergio Xalambrí](https://sergiodxa.com) - [Able](https://able.co)
+- [Sergio Xalambrí](https://sergiodxa.com)
 
 Based on a [similar Hook](https://github.com/tannerlinsley/react-query/blob/2c49b5d29ccd9204bd7e30b23efd08224b0f7560/src/react/utils.js#L45-L57) by [Tanner Linsley](https://twitter.com/tannerlinsley).
 
