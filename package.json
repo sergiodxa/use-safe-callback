@@ -41,7 +41,7 @@
   "devDependencies": {
     "@types/react": "^17.0.15",
     "@types/react-dom": "^17.0.9",
-    "husky": "^4.2.5",
+    "husky": "^7.0.2",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "tsdx": "^0.13.2",
